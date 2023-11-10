@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Merriweather';
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #5956e9, #a963f8);
+}
+
+.container-signin {
+  background-color: whitesmoke;
+  padding: 6px;
+  width: 350px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 0 darkgrey;
+}
+
+.container-signup {
+  background-color: whitesmoke;
+  padding: 6px;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 0 darkgrey;
+}
+
+#signin {
+  position: absolute;
+  margin-top: 80px;
+  width: 300px;
+  height: 300px;
+}
+
+#btn-signin,
+#btn-signup {
+  background: linear-gradient(to right, #5956e9, #a963f8);
+  color: white;
+  border-radius: 30px;
+  width: 100%;
+  border: none;
+  padding: 8px 15px;
+  font-size: 16px;
+  margin-top: 50px;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.buttonsForm {
+  margin-top: 30px;
+}
+
+.buttonsForm button {
+  background: transparent;
+  border: none;
+  padding: 10px 29px;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+
+#signin-email,
+#signin-password,
+#signup-nome,
+#signup-nascimento,
+#signup-email,
+#signup-password {
+  border: none;
+  margin-top: 40px;
+  border-radius: 60px;
+  padding: 8px 0 8px 35px;
+  outline: none;
+  width: 100%;
+}
+
+.crie-aqui,
+.fazer-login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.crie-aqui a,
+.fazer-login a {
+  text-decoration: none;
+  color: blueviolet;
+}
