@@ -1,10 +1,25 @@
-<h1 align="center"> Login / Cadastro </h1>
+<h1 align="center">Tela Login / Cadastrp</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green?style=plastic">
+  <img src="https://img.shields.io/github/stars/deboradrf?style=social">
+</p>
+
+## 📚 Descrição
+Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do curso de Análise e Desenvolvimento de Sistemas, que apresenta uma tela de login e cadastro funcional, utilizando o LocalStorage.
+
+## 🎨 Layout
 <img src="https://github.com/deboradrf/tela-login-cadastro/assets/130398684/aa7dafe8-0a62-4382-9fb3-4d08fe66289c">
 
-### 📚 Descrição
-Esse projeto apresenta uma tela de login e cadastro funcional, utilizando o LocalStorage. <br>
-Desenvolvido em HTML, CSS, Bootstrap e JavaScript para aula de Desenvolvimento de Interface Web.
+## ⚙️ Funcionalidades
+``1`` Cadastro e login de usuário, sendo ele armazenado no LocalStorage.
 
-### 📁 Acesso
+## ✔️ Tecnologias utilizadas
+- ``Visual Studio Code``
+- ``HTML``
+- ``CSS``
+- ``Bootstrap``
+- ``JavaScript``
+
+## 📁 Acesso ao projeto
 Hospedado no Netlify <br>
 Link: https://logincadastro-deboradrf.netlify.app
