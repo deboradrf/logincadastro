@@ -1,4 +1,4 @@
-<h1 align="center">Tela Login / Cadastrp</h1>
+<h1 align="center">Tela Login / Cadastro</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green?style=plastic">
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
